@@ -2,6 +2,20 @@
 
 *Honza Brukner a Honza Černocký, ÚPGM FIT VUT*
 
+- [ISS Projekt 2022/23](#iss-projekt-202223)
+  - [Studijní etapa](#studijní-etapa)
+  - [Úvod projektu](#úvod-projektu)
+  - [Vstup](#vstup)
+  - [Zadání](#zadání)
+    - [Základy (2 body)](#základy-2-body)
+    - [Určení základní frekvence (3 body)](#určení-základní-frekvence-3-body)
+    - [Zpřesnění odhadu základní frekvence f_0 (3 body)](#zpřesnění-odhadu-základní-frekvence-f_0-3-body)
+    - [Reprezentace klavíru (3 body)](#reprezentace-klavíru-3-body)
+    - [Syntéza tónů (3 body)](#syntéza-tónů-3-body)
+    - [Generování hudby (3 body)](#generování-hudby-3-body)
+    - [Spektrogram (1 bod)](#spektrogram-1-bod)
+  - [Odevzdání](#odevzdání)
+
 ## Studijní etapa
 
 *kopírováno z [veřejných stránek](https://www.fit.vutbr.cz/study/courses/ISS/public/#proj)*
