@@ -12,14 +12,14 @@ Zadanie: [ZADANI.md](ZADANI.md), originál [PDF](https://www.fit.vutbr.cz/study/
 
 ### TODO
 
-- [ ] [Základ](ZADANI.md#základy-2-body)
-  - [ ] vyobraziť tóny
-  - [ ] spočítať a vykresliť DFT
-  - [ ] `audio/x_orig.wav`
-- [ ] [Základná frekvencia](ZADANI.md#určení-základní-frekvence-3-body)
-  - [ ] spočítať základnú frekvenciu všetkých tónov
-  - [ ] zobraziť graf tónov, zistiť f_0 a vyobraziť ho
-  - [ ] vysvetlit rozdiely medzi získanou a očakávanou frekvenciou
+- [X] [Základ](ZADANI.md#základy-2-body)
+  - [X] vyobraziť tóny
+  - [X] spočítať a vykresliť DFT
+  - [X] `audio/x_orig.wav`
+- [X] [Základná frekvencia](ZADANI.md#určení-základní-frekvence-3-body)
+  - [X] spočítať základnú frekvenciu všetkých tónov
+  - [X] zobraziť graf tónov, zistiť f_0 a vyobraziť ho
+  - [X] vysvetlit rozdiely medzi získanou a očakávanou frekvenciou
 - [ ] [Zpresnenie odhadu](ZADANI.md#zpřesnění-odhadu-základní-frekvence-f_0-3-body)
   - [ ] zpresniť odhad pomocou DTFT (the f&k is that?)
 - [ ] [Reprezentácia klavíru](ZADANI.md#reprezentace-klavíru-3-body)
