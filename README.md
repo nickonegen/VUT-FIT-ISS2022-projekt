@@ -20,11 +20,11 @@ Zadanie: [ZADANI.md](ZADANI.md), originál [PDF](https://www.fit.vutbr.cz/study/
   - [X] spočítať základnú frekvenciu všetkých tónov
   - [X] zobraziť graf tónov, zistiť f_0 a vyobraziť ho
   - [X] vysvetlit rozdiely medzi získanou a očakávanou frekvenciou
-- [ ] [Zpresnenie odhadu](ZADANI.md#zpřesnění-odhadu-základní-frekvence-f_0-3-body)
-  - [ ] zpresniť odhad pomocou DTFT (the f&k is that?)
-- [ ] [Reprezentácia klavíru](ZADANI.md#reprezentace-klavíru-3-body)
-  - [ ] reprezentovať každý tón použitím 10 floatov
-  - [ ] zobraziť modul DFT mojích troch tónov; vyznačiť info
+- [X] [Zpresnenie odhadu](ZADANI.md#zpřesnění-odhadu-základní-frekvence-f_0-3-body)
+  - [X] zpresniť odhad pomocou DTFT (the f&k is that?)
+- [X] [Reprezentácia klavíru](ZADANI.md#reprezentace-klavíru-3-body)
+  - [X] reprezentovať každý tón použitím 10 floatov
+  - [X] zobraziť modul DFT mojích troch tónov; vyznačiť info
 - [ ] [Syntéza](ZADANI.md#syntéza-tónů-3-body)
   - [ ] syntetizovať signály hardcore matematikou
   - [ ] `audio/x.wav`
