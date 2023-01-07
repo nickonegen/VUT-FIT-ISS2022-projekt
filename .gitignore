@@ -1,8 +1,0 @@
-# Private stuff and backups
-x*
-!xonege99.pdf
-*-backup*
-*-private*
-
-# Editor
-.vscode

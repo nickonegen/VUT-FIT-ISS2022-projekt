@@ -2,37 +2,15 @@
 
 *Projekt (syntetický klavír) z predmetu Signály a systémy (ISS), tretí semester bakalárskeho štúdia BIT na FIT VUT/BUT, ak.rok 2022/2023*
 
-🔒 **Aktívny súkromný repozitár — nezverejňovať!**
+⚠️ **Zverejnené pre archívne účely — nekopírujte, nula by Vás mrzela. Za nič také nenesiem žiadnu zodpovednosť!** Všetky odovzdané projekty prechádzajú kontrolou plagiátorstva, pri ktorej sa porovnávajú aj s dávnejšie odovzdanými riešeniami.
 
-Hodnotenie: ?? / ??<br>（?）
+Hodnotenie: 14 / 18<br>（nestihol som generáciu skladby a ďalej, ale aspoň to čo som stihol je za full. Dokonca s pochvalou! <img alt=":peepoHappy:" src="https://user-images.githubusercontent.com/84882649/211119362-b31e8906-1366-4374-a074-782f8e8acfc1.png" height="16px" />）
 
 Zadanie: [ZADANI.md](ZADANI.md), originál [PDF](https://www.fit.vutbr.cz/study/courses/ISS/public/proj2022-23/projekt.pdf)
 
-## Work-In-Progress
+### Môže sa hodiť
 
-### TODO
-
-- [X] [Základ](ZADANI.md#základy-2-body)
-  - [X] vyobraziť tóny
-  - [X] spočítať a vykresliť DFT
-  - [X] `audio/x_orig.wav`
-- [X] [Základná frekvencia](ZADANI.md#určení-základní-frekvence-3-body)
-  - [X] spočítať základnú frekvenciu všetkých tónov
-  - [X] zobraziť graf tónov, zistiť f_0 a vyobraziť ho
-  - [X] vysvetlit rozdiely medzi získanou a očakávanou frekvenciou
-- [X] [Zpresnenie odhadu](ZADANI.md#zpřesnění-odhadu-základní-frekvence-f_0-3-body)
-  - [X] zpresniť odhad pomocou DTFT (the f&k is that?)
-- [X] [Reprezentácia klavíru](ZADANI.md#reprezentace-klavíru-3-body)
-  - [X] reprezentovať každý tón použitím 10 floatov
-  - [X] zobraziť modul DFT mojích troch tónov; vyznačiť info
-- [ ] [Syntéza](ZADANI.md#syntéza-tónů-3-body)
-  - [ ] syntetizovať signály hardcore matematikou
-  - [ ] `audio/x.wav`
-  - [ ] zrovnať dáke grafy
-  - [ ] synchronizovať signály
-- [ ] [Generovanie hudby](ZADANI.md#generování-hudby-3-body)
-  - [ ] vygenerovať skladbu (kill me)
-- [ ] [Spektrogram](ZADANI.md#spektrogram-1-bod)
-  - [ ] spektrogram 10 sek.
-- [ ] ⏰ Deadline 18.12. 23:59:59
-- [ ] ⏰ Hodnotenie
+* [Notebooky zo študíjnej etapy](https://www.fit.vutbr.cz/study/courses/ISS/public/proj_studijni_etapa/)
+* [Úvod do spektrálnej analýzy](https://nbviewer.org/github/zmolikova/ISS_project_study_phase/blob/master/Zvuk_spektra_filtrace.ipynb)
+* [Video-Úvod do spektrálnej analýzy](https://youtu.be/WMOrCBxxgvA)
+* [Čo je to Fourierová transformácia?](https://youtu.be/spUNpyF58BY)
